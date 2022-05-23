@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.mycompany.pruebasunitarias.EmpleadoTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.007 sec <<< FAILURE!
+com.mycompany.pruebasunitarias.EmpleadoTest.testEquals()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException: Cannot invoke "com.mycompany.pruebasunitarias.Empleado.equals(Object)" because "instance" is null
+	at com.mycompany.pruebasunitarias.EmpleadoTest.testEquals(EmpleadoTest.java:28)
+
